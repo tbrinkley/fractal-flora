@@ -4,3 +4,4 @@
   Authour:Alan Richmond, Python3.codes
   https://en.wikipedia.org/wiki/L-system
 http://python3.codes/drawing-fractals-with-lindenmayer-systems/
+https://trinket.io/library/trinkets
